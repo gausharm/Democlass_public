@@ -6,3 +6,4 @@ echo "Enter 2nd number"
 read b
 echo "you enter $b"
 echo "$a and $b sum = $a + $b"
+echo "Have a Good day"
