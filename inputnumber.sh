@@ -7,4 +7,4 @@ read b
 echo "you enter $b"
 echo "$a and $b sum = $a + $b"
 echo "Have a Good day"
-echo "date"
+echo "new line"
